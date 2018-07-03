@@ -7,7 +7,6 @@
 <br>
 <p>To start the script click icon( <img src="syringe_icon.png"> ) on page you suspect popups my occur.</p>
 <p>Click icon( <img src="syringe_icon.png"> ) again to toggle script 'off'.</p>
-
-<img src="syringe_icon.png">
+<p>On off states are identifiable by the icon's badge 'Green = 'on' Orange = 'off'</p>
 <hr>
 <p>Developed by: Michael Devenport. 2018</p>
