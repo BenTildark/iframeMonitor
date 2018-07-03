@@ -1,5 +1,5 @@
 <h1>Chrome ext:iframeMonitor</h1>
-<hr>
+
 <p>Monitors current page active_element state.</p>
 <br>
 <p>If "on" & iframe is the 'active' page element,</p>
