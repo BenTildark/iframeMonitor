@@ -1,0 +1,27 @@
+// Define Extension Declarations.
+{
+  "name": "iframeMonitor",
+  "version": "1.0",
+  "description": "Remove  full-page popup advertisments triggered from iframe clicks.",
+  "manifest_version": 2,
+
+  "icons": {
+    "16": "syringe_icon.png"
+  },
+
+  "background": {
+    "persistent": false,
+    "scripts": ["remove_popup.js"]
+  },
+
+  // NOTE: declared to executeScript in an 'activeTab'.
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "syringe_icon.png",
+    "default_title": "iframe Monitor" 
+  }
+}
